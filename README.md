@@ -1,1 +1,1 @@
-# Crypto Auto Trading Programs (for school project)
+# Crypto Auto Trading Programs(for school project)
