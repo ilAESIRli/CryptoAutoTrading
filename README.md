@@ -1,1 +1,1 @@
-# CryptoAUtoTradeWithAIandSlack
+# Crypto Auto Trading Programs (for school project)
